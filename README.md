@@ -4,6 +4,8 @@
 
 I build web and mobile products, from architecture and integrations through production releases. Based in Prishtina, Kosovo, I work with businesses internationally through Coetic X.
 
+Most of my current engineering work lives in private Coetic X and client-owned repositories. For recent products and project experience, see my [portfolio](https://coetic-x.com/) and [CV](https://coetic-x.com/cv/arber-shabani/).
+
 ## Engineering Focus
 
 - Web and mobile applications with TypeScript, React, React Native and Next.js.
